@@ -1,0 +1,12 @@
+matplotlib==2.1.0 # 这个安装会报错，所以没有指定版本
+tensorflow==1.15.2 # 找不到这个版本,应该是python 版本过高，所以此处尝试将python==3.7,解决
+numpy==1.13.3
+inflect==0.2.5
+librosa==0.6.0
+scipy==1.0.0 # 这个版本也会报错
+Unidecode==1.0.22
+pillow
+
+#--------要放置到readme中的
+python=3.7
+# 预训练模型下载链接
